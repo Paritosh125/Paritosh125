@@ -47,7 +47,7 @@
 | 🔗 Project | 💡 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
 | 🎬 **MovieVerse** | MERN app to browse, review & rate movies. | React, Node.js, MongoDB |
-| 🛒 **GamepadStore** | Ecommerce Website with payment gateway integration. | PHP,JS,HTML,CSS,Bootstrap,MySQL |
+| 🛒 **GamepadStore** | Ecommerce Website with payment gateway integration. | PHP,JS,Bootstrap,MySQL |
 | 🌦️ **Weather Dashboard** | Real-time weather data using OpenWeather API. | HTML, CSS, JS |
 
 > 🧾 *More projects coming soon — stay tuned!*
