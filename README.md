@@ -1,38 +1,44 @@
-<!-- Professional & Minimal GitHub Profile README for Paritosh Sandhan -->
+<!-- Clean & Professional GitHub Profile README for Paritosh Sandhan -->
 
 <h1 align="center">Hi, I'm Paritosh Sandhan 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | ☁️ Cloud Enthusiast | 🎯 Aspiring Software Engineer</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Techy developer animation" width="600" />
+</p>
+
 ---
 
 ### 🧭 About Me
-- 🎓 Computer Engineering student at **JSPM Narhe Technical Campus, Pune**  
-- 💡 Skilled in **MERN Stack**, exploring **Cloud & AI**  
-- 🧱 I enjoy building **real-world projects** and improving developer experience  
-- 🤝 Open to collaborations on impactful software projects  
-- 📫 **sandhanparitosh@gmail.com**
+- 🎓 Pursuing **B.E. in Computer Engineering** at *JSPM Narhe Technical Campus, Pune*  
+- 💡 Skilled in **Full Stack Web Development (MERN)**  
+- 🌥️ Exploring **Cloud & AI** technologies  
+- 🧱 I love creating **real-world, impactful projects**  
+- 🤝 Open to **collaborations** on web or software development  
+- 📫 Reach me at **paritoshsandhan125@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
+
 #### 💻 Languages
 <marquee scrollamount="5" behavior="alternate" direction="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" height="50" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" height="45" />
 </marquee>
 
 #### ⚙️ Frameworks & Libraries
 <marquee scrollamount="5" behavior="alternate" direction="right">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" height="45" />
 </marquee>
 
 #### 🗄️ Database & Cloud
 <marquee scrollamount="5" behavior="alternate" direction="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
 </marquee>
 
 #### 🧰 Tools & Platforms
 <marquee scrollamount="5" behavior="alternate" direction="right">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" height="45" />
 </marquee>
 
 ---
@@ -44,30 +50,16 @@
 | 🛒 **E-commerce API** | RESTful API with authentication & CRUD ops. | Node.js, Express, MongoDB |
 | 🌦️ **Weather Dashboard** | Real-time weather data using OpenWeather API. | HTML, CSS, JS |
 
-> 🧾 *More projects available on my pinned repositories.*
-
----
-
-### 🏆 Achievements
-<div align="center">
-
-#### 📈 GitHub Insights  
-![Stats](https://github-readme-stats.vercel.app/api?username=Paritosh125&show_icons=true&theme=transparent&hide_border=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh125&layout=compact&theme=transparent&hide_border=true)
-
-#### 🧩 Contributions  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Paritosh125&theme=transparent&hide_border=true" alt="GitHub Streak" />
-
-</div>
+> 🧾 *More projects coming soon — stay tuned!*
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/paritosh-sandhan" target="_blank">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sandhanparitosh@gmail.com" target="_blank">
+  <a href="mailto:paritoshsandhan125@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Paritosh125" target="_blank">
@@ -78,9 +70,9 @@
 ---
 
 <p align="center">
-  <i>“Code is like art — minimal, clean, and expressive.”</i>  
+  <i>“Minimal. Clean. Effective. That’s how I like my code.”</i>
 </p>
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  ⭐ If you like my work, feel free to star my repositories and connect!
 </p>
