@@ -4,7 +4,7 @@
 <h3 align="center">💻 MERN Stack Developer | ☁️ Cloud Enthusiast | 🎯 Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="Techy developer animation" width="600" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Techy developer animation" width="600" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 #### 💻 Languages
 <marquee scrollamount="5" behavior="alternate" direction="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,javascript,html,css,php" height="45" />
 </marquee>
 
 #### ⚙️ Frameworks & Libraries
@@ -33,12 +33,12 @@
 
 #### 🗄️ Database & Cloud
 <marquee scrollamount="5" behavior="alternate" direction="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" />
 </marquee>
 
 #### 🧰 Tools & Platforms
 <marquee scrollamount="5" behavior="alternate" direction="right">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" height="45" />
 </marquee>
 
 ---
@@ -56,10 +56,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/paritosh-sandhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:paritoshsandhan125@gmail.com" target="_blank">
+  <a href="mailto:sandhanparitosh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Paritosh125" target="_blank">
