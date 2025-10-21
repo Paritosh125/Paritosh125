@@ -38,7 +38,7 @@
 
 #### 🧰 Tools & Platforms
 <marquee scrollamount="5" behavior="alternate" direction="right">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,cursor,chatgpt" height="45" />
 </marquee>
 
 ---
