@@ -4,7 +4,7 @@
 <h3 align="center">💻 MERN Stack Developer | ☁️ Cloud Enthusiast | 🎯 Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Techy developer animation" width="600" />
+  <img src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" alt="Techy developer animation" width="600" />
 </p>
 
 ---
