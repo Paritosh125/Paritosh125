@@ -15,7 +15,7 @@
 - 🌥️ Exploring **Cloud & AI** technologies  
 - 🧱 I love creating **real-world, impactful projects**  
 - 🤝 Open to **collaborations** on web or software development  
-- 📫 Reach me at **paritoshsandhan125@gmail.com**
+- 📫 Reach me at **sandhanparitosh.com**
 
 ---
 
