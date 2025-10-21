@@ -46,8 +46,8 @@
 ### 🚀 Featured Projects
 | 🔗 Project | 💡 Description | ⚙️ Tech Stack |
 |-------------|----------------|---------------|
-| 🎬 **Movie Review App** | MERN app to browse, review & rate movies. | React, Node.js, MongoDB |
-| 🛒 **E-commerce API** | RESTful API with authentication & CRUD ops. | Node.js, Express, MongoDB |
+| 🎬 **MovieVerse** | MERN app to browse, review & rate movies. | React, Node.js, MongoDB |
+| 🛒 **GamepadStore** | Ecommerce Website with payment gateway integration. | PHP,JS,HTML,CSS,Bootstrap,MySQL |
 | 🌦️ **Weather Dashboard** | Real-time weather data using OpenWeather API. | HTML, CSS, JS |
 
 > 🧾 *More projects coming soon — stay tuned!*
