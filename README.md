@@ -1,39 +1,42 @@
-<!-- Profile README for Paritosh Sandhan -->
+<!-- 🌟 Animated & Professional GitHub Profile README for Paritosh Sandhan -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Paritosh Sandhan</span></h1>
-<h3 align="center">💻 MERN Stack Developer | ☁️ Cloud & AI Enthusiast | 🚀 Passionate Problem Solver</h3>
+<!-- Typing header -->
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Paritosh+Sandhan;MERN+Stack+Developer;Cloud+and+AI+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-### 🧠 About Me
+### 🧭 About Me  
 - 🎓 Pursuing **B.E. in Computer Engineering** at *JSPM Narhe Technical Campus, Pune*  
-- 💡 Skilled in **Full Stack Web Development (MERN)** and exploring **Cloud & AI**  
-- 🛠️ Love turning ideas into **real-world projects**  
-- 💬 Always open to **collaboration and learning new technologies**  
-- 📫 Reach me at **paritoshsandhan125@gmail.com**  
-- 🌐 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/paritosh-sandhan/)) • [Portfolio]([https://your-portfolio-link](https://paritosh-portfolio-125.vercel.app/)) 
+- 💻 Skilled in **MERN Stack Development** and exploring **Cloud & AI**  
+- 🧠 Passionate about solving problems and building scalable web apps  
+- 💬 I love working on **real-world projects** that make an impact  
+- 📫 Reach me at **paritoshsandhan125@gmail.com**
 
 ---
 
-### 🧩 Tech Stack
+### 🛠️ Tech Stack
 
 #### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
 </p>
 
 #### 🗄️ Database & Cloud
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 #### 🧰 Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
 </p>
 
@@ -42,28 +45,28 @@
 ### 🚀 Featured Projects
 | 🔗 Project | 💡 Description | 🧠 Tech Stack |
 |-------------|----------------|----------------|
-| 🎬 **Movie Review App** | MERN stack app to browse, review, and rate movies. | React, Node.js, MongoDB, Express |
-| 🛒 **E-commerce API** | RESTful API with authentication & CRUD operations. | Node.js, Express, MongoDB |
-| 🌦️ **Weather Dashboard** | Real-time weather data using OpenWeather API. | HTML, CSS, JS, API Integration |
+| 🎬 **Movie Review App** | MERN app to browse, review, and rate movies. | React, Node.js, MongoDB, Express |
+| 🛒 **E-commerce API** | RESTful API with authentication & CRUD ops. | Node.js, Express, MongoDB |
+| 🌦️ **Weather Dashboard** | Real-time weather app using OpenWeather API. | HTML, CSS, JS, API Integration |
 
-> 🧾 *You can pin these projects on your GitHub for easy visibility.*
+> 🌟 *Check out my pinned repositories for more!*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 <div align="center">
 
-![Paritosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paritosh125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh125&layout=compact&theme=tokyonight&hide_border=true)  
+![Paritosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paritosh125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paritosh125&layout=compact&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paritosh125&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paritosh125&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paritosh125&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" />
 </p>
 
 ---
@@ -84,8 +87,15 @@
 ---
 
 ### ✨ Fun Fact
-> "I’m not just building apps — I’m building **experiences** that solve real problems."
+> “I’m not just building websites — I’m building **experiences** that connect people.”
 
 ---
 
-⭐️ *Thanks for visiting my profile! Don’t forget to check out my repositories and give a ⭐️ if you find something cool!*
+<div align="center">
+  <img src="https://github.com/Paritosh125/Paritosh125/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+If you like what you see, feel free to ⭐ my repositories and connect with me!
