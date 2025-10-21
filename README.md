@@ -4,7 +4,7 @@
 <h3 align="center">💻 MERN Stack Developer | ☁️ Cloud Enthusiast | 🎯 Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Techy developer animation" width="600" />
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="Techy developer animation" width="600" />
 </p>
 
 ---
